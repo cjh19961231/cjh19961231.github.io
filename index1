@@ -40,7 +40,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: red;
+  background-color: #FF0000;
   color: white;
 }
 </style>
